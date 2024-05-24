@@ -58,5 +58,5 @@ The dataset used is the Fashion MNIST dataset, available from [TensorFlow Datase
 
 - Uses TensorBoard to visualize the training logs for all models.
 
-##License
+## License
 This project is licensed under the Apache License 2.0. See the LICENSE file for details.
