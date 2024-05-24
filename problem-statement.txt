@@ -1,0 +1,24 @@
+Day 7 & 8 - Quiz 3
+
+Baseline:
+
+Create an Artificial Neural Network (ANN) with 4-hidden layers to solve the classification problem on the "Fashion MNIST" Dataset. 
+
+Link to dataset: https://www.tensorflow.org/api_docs/python/tf/keras/datasets/fashion_mnist/load_data
+
+Requirements:
+
+A. Make use of the Tensorboard to dump training/test data - both scalars and images.
+
+B. Perform an ablation study:
+
+After creating the ANN, analyse how the accuracy changes when -
+
+You decrease or increase the number of hidden layers.
+You decrease or increase the number of neurons per layer.
+
+
+Submission Details
+
+Add relevant Graphs/Tables/Images of your results to the GitHub ReadME.
+Submit the link to your GitHub repo!
